@@ -88,7 +88,7 @@
 		#skill,#project,#experience{
 			color: #fff;
 			background-image: url(../images/about.jpg);
-  			background-position: center center;
+  			/* background-position: center center; */
   			background-repeat: no-repeat;
   			background-attachment: fixed;
 			background-size: cover;
