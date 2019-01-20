@@ -1,0 +1,107 @@
+		td{
+			text-align: center;
+		}
+		.navabar_text_header{
+			font-size: 17px;
+			letter-spacing: 2px;
+			font-weight: 600;
+		}
+		.navabar_text{
+			font-size: 17px;
+			font-weight: 300;
+		}
+		.hr{
+			margin-top: 0;
+    		margin-bottom: 0;
+    		border: 0;
+    		border-top: 1px solid #eee;
+		}
+		.headers{
+			padding-top: 5rem;
+			font-size: 30px;
+			font-weight: 900;			
+			letter-spacing: 3px;
+			padding-bottom: 2rem;
+		}
+		.sections{
+			padding-top: 3rem;
+			padding-bottom: 5rem;
+		}
+		#home {
+			color: #fff;
+			background-image: url(images/home.jpg);
+  			background-position: center center;
+  			background-repeat: no-repeat;
+  			background-attachment: fixed;
+			background-size: cover;
+  			background-color: #100e17;
+		}
+
+		#home .name {		
+			font-size: 30px;
+			font-weight: 900;			
+			letter-spacing: 3px;
+			padding-bottom: .2em;
+			float: right;
+		}
+
+		#home .role {
+			font-size: 20px;
+			font-weight: 800;
+			font-style: italic;
+			letter-spacing: 1px;
+			padding-bottom: .2em;
+			float: right;
+		}
+		#about{
+			color: #fff;
+			background-image: url(images/about.jpg);
+  			background-position: center center;
+  			background-repeat: no-repeat;
+  			background-attachment: fixed;
+			background-size: cover;
+  			background-color: #100e17;
+		}
+		#about .greeting{
+			font-size: 25px;
+			font-weight:800;			
+			letter-spacing: 2px;
+			padding-bottom: .1em;
+		}
+		#about .subject{
+			font-size: 20px;
+			font-weight:700;			
+			letter-spacing: 2px;
+			padding-bottom: .1em;
+		}
+		#about .message{
+			font-size: 15px;
+			font-weight:200;			
+			letter-spacing: 1px;			
+		}
+		#about a{
+			color: #000;
+		}
+		#about a:hover{
+			text-decoration: none;
+		}
+		#skill,#project,#experience{
+			color: #fff;
+			background-image: url(images/about.jpg);
+  			background-position: center center;
+  			background-repeat: no-repeat;
+  			background-attachment: fixed;
+			background-size: cover;
+  			background-color: #100e17;
+		}
+		#contact{
+			background-color: #100e17;
+			color: #fff;
+		}
+		#contact i,#contact p{
+			color: #337ab7;
+			font-size: 20px;
+		}
+		#contact a:hover{
+			text-decoration: none;
+		}
