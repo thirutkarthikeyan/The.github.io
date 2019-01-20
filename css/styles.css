@@ -85,7 +85,7 @@
 		#about a:hover{
 			text-decoration: none;
 		}
-		#skill,#project,#experience{
+		body{
 			color: #fff;
 			background-image: url(../images/about.jpg);
   			background-position: center center;
@@ -102,6 +102,7 @@
 			color: #337ab7;
 			font-size: 20px;
 		}
+		#contact a
 		#contact a:hover{
 			text-decoration: none;
 		}
