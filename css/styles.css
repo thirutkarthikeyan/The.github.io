@@ -29,7 +29,7 @@
 		}
 		#home {
 			color: #fff;
-			background-image: url(images/home.jpg);
+			background-image: url(../images/home.jpg);
   			background-position: center center;
   			background-repeat: no-repeat;
   			background-attachment: fixed;
@@ -55,7 +55,7 @@
 		}
 		#about{
 			color: #fff;
-			background-image: url(images/about.jpg);
+			background-image: url(../images/about.jpg);
   			background-position: center center;
   			background-repeat: no-repeat;
   			background-attachment: fixed;
@@ -87,7 +87,7 @@
 		}
 		#skill,#project,#experience{
 			color: #fff;
-			background-image: url(images/about.jpg);
+			background-image: url(../images/about.jpg);
   			background-position: center center;
   			background-repeat: no-repeat;
   			background-attachment: fixed;
