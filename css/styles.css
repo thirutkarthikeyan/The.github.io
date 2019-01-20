@@ -1,3 +1,11 @@
+		body{
+			background-image: url(../images/about.jpg);
+			background-position: center center;
+	  		background-repeat: no-repeat;
+	  		background-attachment: fixed;
+			background-size: cover;
+			background-color: #100e17;			  
+		}		
 		td{
 			text-align: center;
 		}
@@ -53,15 +61,7 @@
 			padding-bottom: .2em;
 			float: right;
 		}
-		#about{
-			color: #fff;
-			background-image: url(../images/about.jpg);
-  			background-position: center center;
-  			background-repeat: no-repeat;
-  			background-attachment: fixed;
-			background-size: cover;
-  			background-color: #100e17;
-		}
+		
 		#about .greeting{
 			font-size: 25px;
 			font-weight:800;			
@@ -85,24 +85,17 @@
 		#about a:hover{
 			text-decoration: none;
 		}
-		body{
+		
+		#about,#skill,#project,#experience,#contact{			
 			color: #fff;
-			background-image: url(../images/about.jpg);
-  			background-position: center center;
-  			background-repeat: no-repeat;
-  			background-attachment: fixed;
-			background-size: cover;
-  			background-color: #100e17;
 		}
 		#contact{
 			background-color: #100e17;
-			color: #fff;
 		}
 		#contact i,#contact p{
 			color: #337ab7;
 			font-size: 20px;
 		}
-		#contact a
-		#contact a:hover{
+		#contact a,#contact a:hover{
 			text-decoration: none;
 		}
